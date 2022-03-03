@@ -85,7 +85,7 @@
 }
 .create label {
   text-align: left;
-  display: block;
+  display: flex;
 }
 .create h2 {
   font-size: 20px;
@@ -98,7 +98,7 @@
   margin: 10px 0;
   border: 1px solid #ddd;
   box-sizing: border-box;
-  display: block;
+  display: flex;
 }
 .create button {
   background: #f1356d;
